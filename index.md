@@ -6,11 +6,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Stacked HTML CSS Template</title>
-<!--
-Stacked Template
-https://templatemo.com/tm-505-stacked
--->
+        <title>Subhang Port-folio</title>
+
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
@@ -22,9 +19,7 @@ https://templatemo.com/tm-505-stacked
         <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
     </head>
     <body>
-        <!--[if lt IE 8]>
-            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
+      
         <nav class="nav">
           <div class="burger">
             <div class="burger__patty"></div>
@@ -54,7 +49,7 @@ https://templatemo.com/tm-505-stacked
                   <div class="col-md-8 col-md-offset-2">
                     <div class="home-content">
                       <div class="home-heading">
-                        <h1><em>Stak</em> HTML CSS</h1>
+                        <h1><em>Subhang</em> Port-Folio</h1>
                       </div>
                       <div class="row">
                         <div class="col-md-12">
@@ -260,8 +255,7 @@ https://templatemo.com/tm-505-stacked
                   </div>
                   <div class="col-md-12">
                     <div class="footer">
-                      <p>Copyright &copy; 2020 Your Company 
-                      | Design: TemplateMo</p>
+                      <p>Copyright &copy; Open Source</p>
                     </div>
                   </div>
                 </div>
